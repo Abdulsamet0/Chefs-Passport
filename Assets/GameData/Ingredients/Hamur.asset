@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c88cd38cd8e7c5428dd5a11e50ba4ee, type: 3}
+  m_Name: Hamur
+  m_EditorClassIdentifier: Assembly-CSharp::IngredientData
+  ingredientName: Hamur
+  icon: {fileID: 736644971566567550, guid: 508ab6d52a97a574ca4f615a4155bd6c, type: 3}
+  dropPrefab: {fileID: 4695105660647018187, guid: ad429f077f9ee38458c7efd85c386896, type: 3}

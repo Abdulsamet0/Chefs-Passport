@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 714afad0ea0af8647a4c6c39e5f60fed, type: 3}
+  m_Name: Pizza
+  m_EditorClassIdentifier: Assembly-CSharp::DishData
+  dishName: Pizza
+  completedDishImage: {fileID: -6444940296795206775, guid: 4de4274c4bba0de4386683d44708344b, type: 3}
+  requiredIngredients:
+  - {fileID: 11400000, guid: cb23942b674d32b43bcc21d3faaa7236, type: 2}
+  - {fileID: 11400000, guid: 5f1d8029d515cf34bacc96c286abe957, type: 2}
+  - {fileID: 11400000, guid: 5db7d63fceb918c48ba83df5c33d3f7b, type: 2}
